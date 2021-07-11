@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/web/JS/JSRegister.js" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/web/JS/jquery-1.11.3.min.js" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/web/font/demo_index.html" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/web/font/icomoon.dev.svg" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/web/font/icomoon.eot" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/web/font/icomoon.svg" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/web/font/icomoon.ttf" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/web/font/icomoon.woff" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/web/font/iconfont.css" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/web/img/gender1.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/web/img/gou.jpg" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/web/img/tab-thbg.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/web/img/timg.jpg" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/web/img/zhucebg.jpg" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/web/src/dbConfig.properties" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/web/teaInfoManage.jsp" charset="GBK" />
+  </component>
+</project>
